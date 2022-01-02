@@ -17,7 +17,9 @@
 5. [A gentle intro to PyCaret](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/a-gentle-intro-to-pycaret-beginner-friendly.ipynb)
 6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Stroke_Prediction_Imbalanced_data.ipynb)
 
+![](https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png)
 ![](https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig)
+![](https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg)
 
 
 ### Machine Learning Basics
