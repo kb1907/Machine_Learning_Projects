@@ -7,3 +7,7 @@
 - This folder will be updated constantly.
 - You can also see the some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 
+
+### MAchine Learning Projects
+
+1. [xgboost-lightgbm-catboost-imbalanced-data](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/xgboost-lightgbm-catboost-imbalanced-data.ipynb)
