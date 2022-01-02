@@ -13,4 +13,18 @@
 1. [xgboost-lightgbm-catboost-imbalanced-data](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/xgboost-lightgbm-catboost-imbalanced-data.ipynb)
 2. [catboost-lightgbm-xgboost-explained-by-shap](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/catboost-lightgbm-xgboost-explained-by-shap.ipynb)
 3. [Beginner Friendly Catboost with optuna](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/beginner-friendly-catboost-with-optuna.ipynb)
-4. [End to End ML Project](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/car-price-prediction.ipynb)
+4. [End to End ML Project- Car Price Predicition](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/car-price-prediction.ipynb)
+5. [A gentle intro to PyCaret](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/a-gentle-intro-to-pycaret-beginner-friendly.ipynb)
+6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Stroke_Prediction_Imbalanced_data.ipynb)
+
+![](https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig)
+
+
+### Machine Learning Basics
+1. [Feature Selection-The Most Common Methods to Know](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/feature-selection-the-most-common-methods-to-know.ipynb)
+2. [How to Prevent Data Leakage?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/how-to-prevent-the-data-leakage.ipynb)
+3. [How to Deal with Missing Values?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-used-methods-to-deal-with-missing-values.ipynb)
+4. [The Most Common Evaluation MEtrics](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-common-evaluation-metrics-a-gentle-intro.ipynb)
+5. [Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-linear-algorithms.ipynb)
+6. [Non Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/nonlinear-algorithms.ipynb)
+7. [Bias Variance Tradeoff](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-bias-variance-tradeoff.ipynb)
