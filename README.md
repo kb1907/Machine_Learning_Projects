@@ -23,8 +23,13 @@
 5. [A gentle intro to PyCaret](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/a-gentle-intro-to-pycaret-beginner-friendly.ipynb)
 6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Stroke_Prediction_Imbalanced_data.ipynb)
 
+7 [Customer Segmentation](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Customer_Segmentation.ipynb)
+
+![](https://www.namogoo.com/wp-content/uploads/2021/04/customer-segmentation_01.jpg)
+
 
 ### Machine Learning Basics
+
 
 1. [Feature Selection-The Most Common Methods to Know](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/feature-selection-the-most-common-methods-to-know.ipynb)
 2. [How to Prevent Data Leakage?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/how-to-prevent-the-data-leakage.ipynb)
