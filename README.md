@@ -17,12 +17,9 @@
 5. [A gentle intro to PyCaret](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/a-gentle-intro-to-pycaret-beginner-friendly.ipynb)
 6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Stroke_Prediction_Imbalanced_data.ipynb)
 
-![](https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png)
-![](https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig)
-![](https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg)
-
 
 ### Machine Learning Basics
+
 1. [Feature Selection-The Most Common Methods to Know](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/feature-selection-the-most-common-methods-to-know.ipynb)
 2. [How to Prevent Data Leakage?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/how-to-prevent-the-data-leakage.ipynb)
 3. [How to Deal with Missing Values?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-used-methods-to-deal-with-missing-values.ipynb)
@@ -30,3 +27,10 @@
 5. [Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-linear-algorithms.ipynb)
 6. [Non Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/nonlinear-algorithms.ipynb)
 7. [Bias Variance Tradeoff](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-bias-variance-tradeoff.ipynb)
+
+
+![](https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png)
+
+![](https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig)
+
+![](https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg)
