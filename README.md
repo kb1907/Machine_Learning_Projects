@@ -12,7 +12,7 @@
 
 1. [xgboost-lightgbm-catboost-imbalanced-data](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/xgboost-lightgbm-catboost-imbalanced-data.ipynb)
 
-<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="400" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="400" height="300">
+<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="450" height="450">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="450" height="450">
 
 2. [catboost-lightgbm-xgboost-explained-by-shap](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/catboost-lightgbm-xgboost-explained-by-shap.ipynb)
 3. [Beginner Friendly Catboost with optuna](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/beginner-friendly-catboost-with-optuna.ipynb)
@@ -25,7 +25,8 @@
 
 7 [Customer Segmentation](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Customer_Segmentation.ipynb)
 
-![](https://www.namogoo.com/wp-content/uploads/2021/04/customer-segmentation_01.jpg)
+<img src="https://www.namogoo.com/wp-content/uploads/2021/04/customer-segmentation_01.jpg" width="450" height="450">
+
 
 
 ### Machine Learning Basics
