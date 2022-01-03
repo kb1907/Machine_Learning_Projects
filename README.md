@@ -11,7 +11,7 @@
 ### Machine Learning Projects
 
 1. [xgboost-lightgbm-catboost-imbalanced-data](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/xgboost-lightgbm-catboost-imbalanced-data.ipynb)
-2. [catboost-lightgbm-xgboost-explained-by-shap](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/catboost-lightgbm-xgboost-explained-by-shap.ipynb)
+2. [catboost-lightgbm-xgboost-explained-by-shap](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/catboost-lightgbm-xgboost-explained-by-shap.ipynb)
 3. [Beginner Friendly Catboost with optuna](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/beginner-friendly-catboost-with-optuna.ipynb)
 4. [End to End ML Project- Car Price Predicition](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/car-price-prediction.ipynb)
 5. [A gentle intro to PyCaret](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/a-gentle-intro-to-pycaret-beginner-friendly.ipynb)
