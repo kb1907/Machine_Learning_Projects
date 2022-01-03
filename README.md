@@ -12,7 +12,8 @@
 
 1. [xgboost-lightgbm-catboost-imbalanced-data](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/xgboost-lightgbm-catboost-imbalanced-data.ipynb)
 
-<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">
+<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="400" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="400" height="300">
+
 
 
 2. [catboost-lightgbm-xgboost-explained-by-shap](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/catboost-lightgbm-xgboost-explained-by-shap.ipynb)
