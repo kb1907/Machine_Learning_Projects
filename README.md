@@ -12,10 +12,10 @@
 
 1. [xgboost-lightgbm-catboost-imbalanced-data](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/xgboost-lightgbm-catboost-imbalanced-data.ipynb)
 2. [catboost-lightgbm-xgboost-explained-by-shap](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/catboost-lightgbm-xgboost-explained-by-shap.ipynb)
-3. [Beginner Friendly Catboost with optuna](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/beginner-friendly-catboost-with-optuna.ipynb)
-4. [End to End ML Project- Car Price Predicition](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/car-price-prediction.ipynb)
-5. [A gentle intro to PyCaret](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/a-gentle-intro-to-pycaret-beginner-friendly.ipynb)
-6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Stroke_Prediction_Imbalanced_data.ipynb)
+3. [Beginner Friendly Catboost with optuna](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/beginner-friendly-catboost-with-optuna.ipynb)
+4. [End to End ML Project- Car Price Predicition](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/car-price-prediction.ipynb)
+5. [A gentle intro to PyCaret](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/a-gentle-intro-to-pycaret-beginner-friendly.ipynb)
+6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Stroke_Prediction_Imbalanced_data.ipynb)
 
 ![](https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png)
 ![](https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig)
