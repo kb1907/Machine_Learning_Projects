@@ -39,7 +39,9 @@
 
 2. [How to Prevent Data Leakage?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/how-to-prevent-the-data-leakage.ipynb)
 3. [How to Deal with Missing Values?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-used-methods-to-deal-with-missing-values.ipynb)
-4. [The Most Common Evaluation MEtrics](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-common-evaluation-metrics-a-gentle-intro.ipynb)
+4. [The Most Common Evaluation Metrics](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-common-evaluation-metrics-a-gentle-intro.ipynb)
 5. [Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-linear-algorithms.ipynb)
 6. [Non Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/nonlinear-algorithms.ipynb)
 7. [Bias Variance Tradeoff](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-bias-variance-tradeoff.ipynb)
+
+![](https://scott.fortmann-roe.com/docs/docs/BiasVariance/biasvariance.png)
