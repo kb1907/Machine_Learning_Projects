@@ -33,6 +33,8 @@
 
 
 1. [Feature Selection-The Most Common Methods to Know](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/feature-selection-the-most-common-methods-to-know.ipynb)
+![](https://miro.medium.com/max/500/0*itE5HLR57zB9qWqc.png)
+
 2. [How to Prevent Data Leakage?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/how-to-prevent-the-data-leakage.ipynb)
 3. [How to Deal with Missing Values?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-used-methods-to-deal-with-missing-values.ipynb)
 4. [The Most Common Evaluation MEtrics](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-common-evaluation-metrics-a-gentle-intro.ipynb)
