@@ -51,8 +51,12 @@
 ![](https://miro.medium.com/max/500/0*itE5HLR57zB9qWqc.png)
 
 2. [How to Prevent Data Leakage?](https://www.kaggle.com/kaanboke/how-to-prevent-the-data-leakage)
+
 3. [How to Deal with Missing Values?](https://www.kaggle.com/kaanboke/the-most-used-methods-to-deal-with-missing-values)
+
 4. [The Most Common Evaluation Metrics](https://www.kaggle.com/kaanboke/the-most-common-evaluation-metrics-a-gentle-intro)
+<img src="https://user-images.githubusercontent.com/51021282/148946692-bb82bbb9-7044-4069-85d6-413a34a68664.png" width="450" height="400">
+
 5. [Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-linear-algorithms.ipynb)
 6. [Non Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/nonlinear-algorithms.ipynb)
 7. [Bias Variance Tradeoff](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-bias-variance-tradeoff.ipynb)
