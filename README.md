@@ -10,18 +10,18 @@
 
 ### Machine Learning Projects
 
-1. [xgboost-lightgbm-catboost-imbalanced-data](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/xgboost-lightgbm-catboost-imbalanced-data.ipynb)
+1. [xgboost-lightgbm-catboost-imbalanced-data](https://www.kaggle.com/kaanboke/xgboost-lightgbm-catboost-imbalanced-data)
 
-<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="450" height="450">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="450" height="450">
+<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="300" height="300">
 
-2. [catboost-lightgbm-xgboost-explained-by-shap](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/catboost-lightgbm-xgboost-explained-by-shap.ipynb)
-3. [Beginner Friendly Catboost with optuna](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/beginner-friendly-catboost-with-optuna.ipynb)
+2. [catboost-lightgbm-xgboost-explained-by-shap](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
+3. [Beginner Friendly Catboost with optuna](https://www.kaggle.com/kaanboke/beginner-friendly-catboost-with-optuna)
 
 <img src="https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig" width="400" height="400">
 
-4. [End to End ML Project- Car Price Predicition](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/car-price-prediction.ipynb)
-5. [A gentle intro to PyCaret](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/a-gentle-intro-to-pycaret-beginner-friendly.ipynb)
-6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Stroke_Prediction_Imbalanced_data.ipynb)
+4. [End to End ML Project- Car Price Predicition](https://www.kaggle.com/kaanboke/car-price-prediction-beginner-friendly-94-3)
+5. [A gentle intro to PyCaret](https://www.kaggle.com/kaanboke/a-gentle-intro-to-pycaret-beginner-friendly)
+6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://www.kaggle.com/kaanboke/beginner-friendly-end-to-end-ml-project-enjoy)
 
 7 [Customer Segmentation](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Customer_Segmentation.ipynb)
 
@@ -32,14 +32,13 @@
 ### Machine Learning Basics
 
 
-1. [Feature Selection-The Most Common Methods to Know](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/feature-selection-the-most-common-methods-to-know.ipynb)
-
+1. [Feature Selection-The Most Common Methods to Know](https://www.kaggle.com/kaanboke/feature-selection-the-most-common-methods-to-know)
 
 ![](https://miro.medium.com/max/500/0*itE5HLR57zB9qWqc.png)
 
-2. [How to Prevent Data Leakage?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/how-to-prevent-the-data-leakage.ipynb)
-3. [How to Deal with Missing Values?](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-used-methods-to-deal-with-missing-values.ipynb)
-4. [The Most Common Evaluation Metrics](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/the-most-common-evaluation-metrics-a-gentle-intro.ipynb)
+2. [How to Prevent Data Leakage?](https://www.kaggle.com/kaanboke/how-to-prevent-the-data-leakage)
+3. [How to Deal with Missing Values?](https://www.kaggle.com/kaanboke/the-most-used-methods-to-deal-with-missing-values)
+4. [The Most Common Evaluation Metrics](https://www.kaggle.com/kaanboke/the-most-common-evaluation-metrics-a-gentle-intro)
 5. [Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-linear-algorithms.ipynb)
 6. [Non Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/nonlinear-algorithms.ipynb)
 7. [Bias Variance Tradeoff](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-bias-variance-tradeoff.ipynb)
