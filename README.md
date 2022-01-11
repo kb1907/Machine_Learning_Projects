@@ -28,7 +28,7 @@
 
 5. [A gentle intro to PyCaret](https://www.kaggle.com/kaanboke/a-gentle-intro-to-pycaret-beginner-friendly)
 
-<img src="https://user-images.githubusercontent.com/51021282/148938091-9ca9078f-d8e5-4984-986d-d09adadf2a88.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/51021282/148938091-9ca9078f-d8e5-4984-986d-d09adadf2a88.png" width="600" height="400">
 
 
 6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://www.kaggle.com/kaanboke/beginner-friendly-end-to-end-ml-project-enjoy)
