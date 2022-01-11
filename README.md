@@ -12,18 +12,18 @@
 
 1. [CatBoost-LightGBM-XGBoost-Imbalanced Data](https://www.kaggle.com/kaanboke/xgboost-lightgbm-catboost-imbalanced-data)
 
-<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="300" height="300">
+<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="300" height="300">,<img src="https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig" width="300" height="300">
 
 2. [CatBoost-LightGBM-XGBoost Explained by SHAP 🤘](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
-
 
 <img src="https://user-images.githubusercontent.com/51021282/148936158-d601afdc-bda9-4929-a166-e9517b0b7237.png" width="400" height="400">
 
 3. [Beginner Friendly CatBoost with OPTUNA](https://www.kaggle.com/kaanboke/beginner-friendly-catboost-with-optuna)
 
-<img src="https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig" width="400" height="400">
-
 4. [End to End ML Project- Car Price Predicition](https://www.kaggle.com/kaanboke/car-price-prediction-beginner-friendly-94-3)
+
+<img src="https://user-images.githubusercontent.com/51021282/148936917-440d3d5d-e245-4666-8613-3a17221470db.png" width="400" height="400">
+
 5. [A gentle intro to PyCaret](https://www.kaggle.com/kaanboke/a-gentle-intro-to-pycaret-beginner-friendly)
 6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://www.kaggle.com/kaanboke/beginner-friendly-end-to-end-ml-project-enjoy)
 
