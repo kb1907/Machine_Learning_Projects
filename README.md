@@ -11,7 +11,7 @@
 ## Machine Learning Projects
 ----------------------------------------
 
-1. [CatBoost-LightGBM-XGBoost-Imbalanced Data](https://www.kaggle.com/kaanboke/xgboost-lightgbm-catboost-imbalanced-data)
+1. ### [CatBoost-LightGBM-XGBoost-Imbalanced Data](https://www.kaggle.com/kaanboke/xgboost-lightgbm-catboost-imbalanced-data)
 
 <img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="300" height="300">,<img src="https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig" width="300" height="300">
 
@@ -44,8 +44,8 @@
 
 
 
-### Machine Learning Basics
-
+## Machine Learning Basics
+-----------------------------------------
 
 1. [Feature Selection-The Most Common Methods to Know](https://www.kaggle.com/kaanboke/feature-selection-the-most-common-methods-to-know)
 
