@@ -8,7 +8,8 @@
 - You can also see the some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
 
-### Machine Learning Projects
+## Machine Learning Projects
+----------------------------------------
 
 1. [CatBoost-LightGBM-XGBoost-Imbalanced Data](https://www.kaggle.com/kaanboke/xgboost-lightgbm-catboost-imbalanced-data)
 
