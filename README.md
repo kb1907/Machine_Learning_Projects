@@ -16,12 +16,12 @@
 
 <img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="300" height="300">,<img src="https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig" width="300" height="300">
 
-2. ### **[CatBoost-LightGBM-XGBoost Explained by SHAP 🤘](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)**
+2. ### [CatBoost-LightGBM-XGBoost Explained by SHAP 🤘](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
 
 <img src="https://user-images.githubusercontent.com/51021282/148936158-d601afdc-bda9-4929-a166-e9517b0b7237.png" width="400" height="400">,<img src="https://user-images.githubusercontent.com/51021282/148942585-5792294c-f1af-4b1b-8abf-9de53bb85c28.png" width="300" height="400">,<img src="https://user-images.githubusercontent.com/51021282/148942614-f1466d6a-355f-45ad-afbd-ae3294f0b0f6.png" width="300" height="400">
 
 
-3. [Beginner Friendly CatBoost with OPTUNA](https://www.kaggle.com/kaanboke/beginner-friendly-catboost-with-optuna)
+### 3. [Beginner Friendly CatBoost with OPTUNA](https://www.kaggle.com/kaanboke/beginner-friendly-catboost-with-optuna)
 
 <img src="https://user-images.githubusercontent.com/51021282/148937505-222108ee-4237-45fb-9182-4d9c36ffdc88.png" width="600" height="400">
 
