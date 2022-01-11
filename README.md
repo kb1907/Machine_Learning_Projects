@@ -15,6 +15,8 @@
 <img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="300" height="300">
 
 2. [CatBoost-LightGBM-XGBoost Explained by SHAP 🤘](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
+![Screen Shot 2022-01-11 at 1 37 56 PM](https://user-images.githubusercontent.com/51021282/148936158-d601afdc-bda9-4929-a166-e9517b0b7237.png)
+
 3. [Beginner Friendly CatBoost with OPTUNA](https://www.kaggle.com/kaanboke/beginner-friendly-catboost-with-optuna)
 
 <img src="https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig" width="400" height="400">
