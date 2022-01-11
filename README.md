@@ -20,7 +20,7 @@
 
 3. [Beginner Friendly CatBoost with OPTUNA](https://www.kaggle.com/kaanboke/beginner-friendly-catboost-with-optuna)
 
-<img src="https://user-images.githubusercontent.com/51021282/148937505-222108ee-4237-45fb-9182-4d9c36ffdc88.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/51021282/148937505-222108ee-4237-45fb-9182-4d9c36ffdc88.png" width="600" height="400">
 
 4. [End to End ML Project- Car Price Predicition](https://www.kaggle.com/kaanboke/car-price-prediction-beginner-friendly-94-3)
 
