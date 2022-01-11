@@ -16,7 +16,8 @@
 
 2. [CatBoost-LightGBM-XGBoost Explained by SHAP 🤘](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
 
-<img src="https://user-images.githubusercontent.com/51021282/148936158-d601afdc-bda9-4929-a166-e9517b0b7237.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/51021282/148936158-d601afdc-bda9-4929-a166-e9517b0b7237.png" width="400" height="400">,<img src="https://user-images.githubusercontent.com/51021282/148942585-5792294c-f1af-4b1b-8abf-9de53bb85c28.png" width="400" height="400">,<img src="https://user-images.githubusercontent.com/51021282/148942614-f1466d6a-355f-45ad-afbd-ae3294f0b0f6.png" width="400" height="400">
+
 
 3. [Beginner Friendly CatBoost with OPTUNA](https://www.kaggle.com/kaanboke/beginner-friendly-catboost-with-optuna)
 
