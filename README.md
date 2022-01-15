@@ -25,7 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/51021282/148937505-222108ee-4237-45fb-9182-4d9c36ffdc88.png" width="600" height="400">
 
-### 4. [End to End ML Project- Car Price Predicition](https://www.kaggle.com/kaanboke/car-price-prediction-beginner-friendly-94-3)
+### 4. [End to End ML Project- Car Price Prediction](https://www.kaggle.com/kaanboke/car-price-prediction-beginner-friendly-94-3)
 
 <img src="https://user-images.githubusercontent.com/51021282/148936917-440d3d5d-e245-4666-8613-3a17221470db.png" width="600" height="400">
 
