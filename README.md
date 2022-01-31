@@ -75,6 +75,9 @@ One of the main issues for the non-linear ML algorithms is the explainability. I
 
 ### 1. [Feature Selection-The Most Common Methods to Know](https://www.kaggle.com/kaanboke/feature-selection-the-most-common-methods-to-know)
 
+- In machine learning and statistics, feature selection, also known as variable selection, attribute selection, or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.
+- In this notebook; I gave detailed information about the most common feature selection methods.
+
 ![](https://miro.medium.com/max/500/0*itE5HLR57zB9qWqc.png)
 
 ### 2. [How to Prevent Data Leakage?](https://www.kaggle.com/kaanboke/how-to-prevent-the-data-leakage)
