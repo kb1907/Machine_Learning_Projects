@@ -62,6 +62,10 @@ One of the main issues for the non-linear ML algorithms is the explainability. I
 
 ### 7. [Customer Segmentation](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Customer_Segmentation.ipynb)
 
+- In real life, we don't always have labeled data to analyze. 
+- For that reason,  I focused on the unsupervised learning model in this project.
+- I made a detailed customer segmentation analysis by using different cluster techniques (such as K-Means and Hierarchical Clustering).
+
 <img src="https://www.namogoo.com/wp-content/uploads/2021/04/customer-segmentation_01.jpg" width="450" height="400">
 
 
