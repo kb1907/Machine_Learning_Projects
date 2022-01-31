@@ -88,6 +88,10 @@ One of the main issues for the non-linear ML algorithms is the explainability. I
 
 ### 3. [How to Deal with Missing Values?](https://www.kaggle.com/kaanboke/the-most-used-methods-to-deal-with-missing-values)
 
+- Missing data are a common occurrence and can have a significant effect on the conclusions that can be drawn from the data.
+
+- For that reason, it is important to know the most used methods to deal with missing values.  
+
 ### 4. [The Most Common Evaluation Metrics](https://www.kaggle.com/kaanboke/the-most-common-evaluation-metrics-a-gentle-intro)
 <img src="https://user-images.githubusercontent.com/51021282/148946692-bb82bbb9-7044-4069-85d6-413a34a68664.png" width="600" height="400">
 
