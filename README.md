@@ -53,6 +53,10 @@ One of the main issues for the non-linear ML algorithms is the explainability. I
 
 ### 6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://www.kaggle.com/kaanboke/beginner-friendly-end-to-end-ml-project-enjoy)
 
+- Most of the time, I encountered imbalanced target variables in real-life data.
+- As a data scientist, it is crucial to know handling imbalanced data. 
+- Also important to know which relevant evaluation metrics to use with the imbalanced data.
+
 <img src="https://user-images.githubusercontent.com/51021282/148943859-e6d364d8-c3a2-4afa-b2c9-c3305d90223b.png" width="600" height="400">
 
 
