@@ -27,7 +27,6 @@ One of the main issues for the non-linear ML algorithms is the explainability. I
 
 <img src="https://user-images.githubusercontent.com/51021282/148936158-d601afdc-bda9-4929-a166-e9517b0b7237.png" width="400" height="400">,<img src="https://user-images.githubusercontent.com/51021282/148942585-5792294c-f1af-4b1b-8abf-9de53bb85c28.png" width="300" height="400">,<img src="https://user-images.githubusercontent.com/51021282/148942614-f1466d6a-355f-45ad-afbd-ae3294f0b0f6.png" width="300" height="400">
 
-
 ### 3. [Beginner Friendly CatBoost with OPTUNA](https://www.kaggle.com/kaanboke/beginner-friendly-catboost-with-optuna)
 
 - One of the main issues for complex algorithms, like CatBoost, is how to tune the hyperparameters efficiently. 
