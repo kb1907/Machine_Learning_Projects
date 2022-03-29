@@ -31,7 +31,6 @@ One of the main issues for the non-linear ML algorithms is the explainability. I
 - One of the main issues for complex algorithms, like CatBoost, is how to tune the hyperparameters efficiently. 
 - In this project, I used OPTUNA to tune the hyperparameters of the CatBoost model.
 
-
 <img src="https://user-images.githubusercontent.com/51021282/148937505-222108ee-4237-45fb-9182-4d9c36ffdc88.png" width="600" height="400">
 
 ### 4. [End to End ML Project- Car Price Prediction](https://www.kaggle.com/kaanboke/car-price-prediction-beginner-friendly-94-3)
