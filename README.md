@@ -27,7 +27,6 @@
 One of the main issues for the non-linear ML algorithms is the explainability. In this project, I used Shap to explain the famous trio (XGBoost & LightGBM & Catboost).
 
 
-
 - SHAP (SHapley Additive exPlanations) is a method to explain individual predictions. SHAP is based on the game theory.
 
 <img src="https://user-images.githubusercontent.com/51021282/148936158-d601afdc-bda9-4929-a166-e9517b0b7237.png" width="400" height="400">,<img src="https://user-images.githubusercontent.com/51021282/148942585-5792294c-f1af-4b1b-8abf-9de53bb85c28.png" width="300" height="400">,<img src="https://user-images.githubusercontent.com/51021282/148942614-f1466d6a-355f-45ad-afbd-ae3294f0b0f6.png" width="300" height="400">
@@ -55,7 +54,6 @@ One of the main issues for the non-linear ML algorithms is the explainability. I
 
 <img src="https://user-images.githubusercontent.com/51021282/148938091-9ca9078f-d8e5-4984-986d-d09adadf2a88.png" width="600" height="400">
 
-
 ### 6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://www.kaggle.com/kaanboke/beginner-friendly-end-to-end-ml-project-enjoy)
 
 - Most of the time, I encountered imbalanced target variables in real-life data.
@@ -72,7 +70,6 @@ One of the main issues for the non-linear ML algorithms is the explainability. I
 - I made a detailed customer segmentation analysis by using different cluster techniques (such as K-Means and Hierarchical Clustering).
 
 <img src="https://www.namogoo.com/wp-content/uploads/2021/04/customer-segmentation_01.jpg" width="450" height="400">
-
 
 
 ## Machine Learning Basics
