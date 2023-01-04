@@ -9,7 +9,6 @@
 - You can also see the some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
 
-
 ## Machine Learning Projects
 ----------------------------------------
 
