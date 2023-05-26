@@ -1,6 +1,5 @@
 # Machine Learning Projects
 ----------------------------------------
-
 <img src="https://miro.medium.com/max/1400/0*QYxNNYh6W9jO1b_-.png" width="550" height="450">
 
 - In this folder, different scale Machine Learning projects can be found.
