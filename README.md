@@ -3,21 +3,20 @@
 <img src="https://miro.medium.com/max/1400/0*QYxNNYh6W9jO1b_-.png" width="550" height="450">
 
 - In this folder, different scale Machine Learning projects can be found.
-- You can also see the some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
+- You can also see some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
-
 
 ## Machine Learning Projects
 ----------------------------------------
 ### 1. [CatBoost-LightGBM-XGBoost-Imbalanced Data](https://www.kaggle.com/kaanboke/xgboost-lightgbm-catboost-imbalanced-data)
 
-- Based on the customer data, I made predictions on the customer churn. Data has an imbalanced target variable, which gave me a good opportunity to look in detail at how the famous trio (XGBoost & LightGBM & Catboost) handle the imbalanced data.
+- Based on the customer data, I made predictions on customer churn. Data has an imbalanced target variable, which gave me a good opportunity to look in detail at how the famous trio (XGBoost & LightGBM & Catboost) handle the imbalanced data.
 
 <img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="300" height="300">,<img src="https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig" width="300" height="300">
 
 ### 2. [CatBoost-LightGBM-XGBoost Explained by SHAP 🤘](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
 
-- Based on the customer data, I made predictions on the customer churn. 
+- Based on the customer data, I made predictions on customer churn. 
 One of the main issues for non-linear ML algorithms is explainability. In this project, I used Shap to explain the famous trio (XGBoost & LightGBM & Catboost).
 
 
