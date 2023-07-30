@@ -42,12 +42,12 @@ One of the main issues for non-linear ML algorithms is explainability. In this p
 
 - As a Data Scientist & ML Engineer, most of the time I use Automated ML libraries.
 - PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows.
-- PyCaret is essentially a Python wrapper around several machine learning libraries and frameworks.
-- In this project, I wrote a gentle intro to PyCaret library. 
+- PyCaret is essentially a Python wrapper around several machine-learning libraries and frameworks.
+- In this project, I wrote a gentle intro to the PyCaret library. 
 
 <img src="https://user-images.githubusercontent.com/51021282/148938091-9ca9078f-d8e5-4984-986d-d09adadf2a88.png" width="600" height="400">
 
-### 6. [End to End ML Project with Imbalanced Data - Stroke Prediction](https://www.kaggle.com/kaanboke/beginner-friendly-end-to-end-ml-project-enjoy)
+### 6. [End-to-End ML Project with Imbalanced Data - Stroke Prediction](https://www.kaggle.com/kaanboke/beginner-friendly-end-to-end-ml-project-enjoy)
 
 - Most of the time, I encountered imbalanced target variables in real-life data.
 - As a data scientist, it is crucial to know handling imbalanced data. 
@@ -93,7 +93,7 @@ One of the main issues for non-linear ML algorithms is explainability. In this p
 <img src="https://user-images.githubusercontent.com/51021282/148946692-bb82bbb9-7044-4069-85d6-413a34a68664.png" width="600" height="400">
 
 ### 5. [Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-linear-algorithms.ipynb)
-### 6. [Non Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/nonlinear-algorithms.ipynb)
+### 6. [Non-Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/nonlinear-algorithms.ipynb)
 ### 7. [Bias Variance Tradeoff](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-bias-variance-tradeoff.ipynb)
 
 ![](https://scott.fortmann-roe.com/docs/docs/BiasVariance/biasvariance.png)
