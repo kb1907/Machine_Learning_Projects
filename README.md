@@ -5,6 +5,7 @@
 - In this folder, different scale Machine Learning projects can be found.
 - You can also see some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
+  
 
 ## Machine Learning Projects
 ----------------------------------------
