@@ -7,7 +7,6 @@
 - All the best 🤘
 
   
-
 ## Machine Learning Projects
 ----------------------------------------
 
