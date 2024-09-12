@@ -22,7 +22,7 @@
 ### 2. [CatBoost-LightGBM-XGBoost Explained by SHAP 🤘](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
 
 - Based on the customer data, I made predictions on customer churn. 
-One of the main issues for non-linear ML algorithms is explainability. In this project, I used Shap to explain the famous trio (XGBoost & LightGBM & Catboost).
+One of the main issues for non-linear ML algorithms is explainability. I used Shap to explain the famous trio (XGBoost & LightGBM & Catboost) in this project.
 
 
 - SHAP (Shapley Additive exPlanations) is a method to explain individual predictions. SHAP is based on game theory.
