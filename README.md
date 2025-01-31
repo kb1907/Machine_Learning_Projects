@@ -35,7 +35,7 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 
 <img src="https://user-images.githubusercontent.com/51021282/148937505-222108ee-4237-45fb-9182-4d9c36ffdc88.png" width="600" height="400">
 
-### 4. [End to End ML Project- Car Price Prediction](https://www.kaggle.com/kaanboke/car-price-prediction-beginner-friendly-94-3)
+### 4. [End-to-End ML Project- Car Price Prediction](https://www.kaggle.com/kaanboke/car-price-prediction-beginner-friendly-94-3)
 
 - In this project, I made a beginner-friendly end-to-end ML model. 
 - I applied different ML models and used RMSE(Root Mean Squared Error) as an evaluation metric.
@@ -54,7 +54,7 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 ### 6. [End-to-End ML Project with Imbalanced Data - Stroke Prediction](https://www.kaggle.com/kaanboke/beginner-friendly-end-to-end-ml-project-enjoy)
 
 - Most of the time, I encountered imbalanced target variables in real-life data.
-- As a data scientist, it is crucial to know handling imbalanced data. 
+- As a data scientist, it is crucial to know how to handle imbalanced data. 
 - Also important to know which relevant evaluation metrics to use with the imbalanced data.
 
 <img src="https://user-images.githubusercontent.com/51021282/148943859-e6d364d8-c3a2-4afa-b2c9-c3305d90223b.png" width="600" height="400">
