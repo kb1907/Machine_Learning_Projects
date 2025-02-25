@@ -43,7 +43,7 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 
 ### 5. [A gentle intro to PyCaret](https://www.kaggle.com/kaanboke/a-gentle-intro-to-pycaret-beginner-friendly)
 
-- As a Data Scientist & ML Engineer, most of the time I use Automated ML libraries.
+- As a Data Scientist & ML Engineer, I usually use Automated ML libraries.
 - PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows.
 - PyCaret is essentially a Python wrapper around several machine-learning libraries and frameworks.
 - In this project, I wrote a gentle intro to the PyCaret library. 
