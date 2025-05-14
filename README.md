@@ -19,7 +19,7 @@ Based on the customer data, I made predictions on customer churn. The data has a
 
 <img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="300" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="300" height="300">,<img src="https://avatars.mds.yandex.net/get-bunker/56833/dba868860690e7fe8b68223bb3b749ed8a36fbce/orig" width="300" height="300">
 
-### 2. [CatBoost-LightGBM-XGBoost Explained by SHAP 🤘](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
+### 2. [CatBoost-LightGBM-XGBoost Explained by SHAP](https://www.kaggle.com/kaanboke/catboost-lightgbm-xgboost-explained-by-shap)
 
 - Based on the customer data, I made predictions on customer churn. 
 One of the main issues for non-linear ML algorithms is explainability. I used Shap to explain the famous trio (XGBoost & LightGBM & Catboost) in this project.
