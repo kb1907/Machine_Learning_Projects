@@ -65,7 +65,7 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 - For that reason,  I focused on the unsupervised learning model in this project.
 - I made a detailed customer segmentation analysis by using different cluster techniques (such as K-Means and Hierarchical Clustering).
 
-<img src="https://www.namogoo.com/wp-content/uploads/2021/04/customer-segmentation_01.jpg" width="450" height="400">
+<img src="<img width="765" height="478" alt="image" src="https://github.com/user-attachments/assets/92bfd567-5c4f-4b5c-9211-3a999c9f3185" />" 
 
 
 ## Machine Learning Basics
@@ -80,7 +80,7 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 
 ### 2. [How to Prevent Data Leakage?](https://www.kaggle.com/kaanboke/how-to-prevent-the-data-leakage)
 
-- Data leakage is the use of information in the model training process which would not be expected to be available at prediction time.
+- Data leakage is the use of information in the model training process that would not be expected to be available at prediction time.
 - Data leakage causes the predictive scores (metrics) to overestimate the model's utility when run in a production environment.
 - How to prevent data leakage is one of the basic concepts to know.
 
