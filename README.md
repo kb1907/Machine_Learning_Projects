@@ -65,7 +65,7 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 - For that reason,  I focused on the unsupervised learning model in this project.
 - I made a detailed customer segmentation analysis by using different cluster techniques (such as K-Means and Hierarchical Clustering).
 
-<img src="<img width="765" height="478" alt="image" src="https://github.com/user-attachments/assets/92bfd567-5c4f-4b5c-9211-3a999c9f3185" />" 
+<img width="765" height="478" alt="image" src="https://github.com/user-attachments/assets/92bfd567-5c4f-4b5c-9211-3a999c9f3185" />
 
 
 ## Machine Learning Basics
