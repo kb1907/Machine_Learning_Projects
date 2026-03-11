@@ -11,7 +11,6 @@
 ## Machine Learning Projects
 ----------------------------------------
 
-
 ### 1. [CatBoost-LightGBM-XGBoost-Imbalanced Data](https://www.kaggle.com/kaanboke/xgboost-lightgbm-catboost-imbalanced-data)
 
 Based on the customer data, I made predictions on customer churn. The data has an imbalanced target variable, which allowed me to examine in detail how the famous trio (XGBoost, LightGBM, and CatBoost) handles imbalanced data.
