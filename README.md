@@ -82,7 +82,7 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 
 - Data leakage is the use of information in the model training process that would not be expected to be available at prediction time.
 - Data leakage causes the predictive scores (metrics) to overestimate the model's utility when run in a production environment.
-- How to prevent data leakage is one of the basic concepts to know.
+- Knowing how to prevent data leakage is one of the basic concepts to know.
 
 ### 3. [How to Deal with Missing Values?](https://www.kaggle.com/kaanboke/the-most-used-methods-to-deal-with-missing-values)
 
