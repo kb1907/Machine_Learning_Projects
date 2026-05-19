@@ -58,7 +58,6 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 
 <img src="https://user-images.githubusercontent.com/51021282/148943859-e6d364d8-c3a2-4afa-b2c9-c3305d90223b.png" width="600" height="400">
 
-
 ### 7. [Customer Segmentation](https://github.com/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/Customer_Segmentation.ipynb)
 
 - In real life, we don't always have labeled data to analyze. 
