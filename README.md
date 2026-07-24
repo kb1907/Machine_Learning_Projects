@@ -86,7 +86,6 @@ One of the main issues for non-linear ML algorithms is explainability. I used Sh
 - Missing data are a common occurrence and can have a significant effect on the conclusions that can be drawn from the data.
 - For that reason, it is important to know the most commonly used methods to deal with missing values.
   
-
 ### 4. [The Most Common Evaluation Metrics](https://www.kaggle.com/kaanboke/the-most-common-evaluation-metrics-a-gentle-intro)
 
 - In machine learning, evaluation metrics are used to measure the performance of machine learning models/algorithms.
