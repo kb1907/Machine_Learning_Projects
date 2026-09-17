@@ -69,10 +69,8 @@ One of the main issues for non-linear ML algorithms is explainability. I used SH
 -----------------------------------------
 
 ### 1. [Feature Selection-The Most Common Methods to Know](https://www.kaggle.com/kaanboke/feature-selection-the-most-common-methods-to-know)
-
 - In machine learning and statistics, feature selection, also known as variable selection, attribute selection, or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.
 - In this notebook, I gave detailed information about the most common feature selection methods.
-
 ![](https://miro.medium.com/max/500/0*itE5HLR57zB9qWqc.png)
 
 ### 2. [How to Prevent Data Leakage?](https://www.kaggle.com/kaanboke/how-to-prevent-the-data-leakage)
@@ -96,6 +94,6 @@ One of the main issues for non-linear ML algorithms is explainability. I used SH
 
 ### 5. [Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-linear-algorithms.ipynb)
 ### 6. [Non-Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/nonlinear-algorithms.ipynb)
-### 7. [Bias Variance Tradeoff](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-bias-variance-tradeoff.ipynb)
+### 7. [Bias-Variance Tradeoff](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-bias-variance-tradeoff.ipynb)
 
 ![](https://scott.fortmann-roe.com/docs/docs/BiasVariance/biasvariance.png)
