@@ -89,8 +89,7 @@ One of the main issues for non-linear ML algorithms is explainability. I used SH
 
 - In machine learning, evaluation metrics are used to measure the performance of machine learning models/algorithms.
 - Evaluation metrics are crucial. We make decisions based on model performance.
-
-  
+ 
 <img src="https://user-images.githubusercontent.com/51021282/148946692-bb82bbb9-7044-4069-85d6-413a34a68664.png" width="600" height="400">
 
 ### 5. [Linear Algorithms](https://github.com/kb1907/Machine_Learning_Projects/blob/main/Machine_Learning_Basics/ml-basics-linear-algorithms.ipynb)
